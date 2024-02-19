@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Christin</h1>
 <h3 align="center">🚀 Full Stack Web Developer | Lifelong Learner 📚 | Passionate about Reading 📖 and Coding 💻 | Let's build something awesome together!</h3>
-<h2>Constantly evolving as a developer and a reader. Love diving into new technologies and exploring the endless possibilities of coding. Let's connect and share our knowledge!
+<p>Constantly evolving as a developer and a reader. Love diving into new technologies and exploring the endless possibilities of coding. Let's connect and share our knowledge!</p>
 
-#CodeLife #WebDev #ReadingAddict</h2>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
